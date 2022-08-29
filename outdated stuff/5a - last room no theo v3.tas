@@ -1,0 +1,56 @@
+console load 5 8613 1184
+   1
+   4,D,X
+  10,L
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+   8,R
+
+# eybaell room
+  40
+   3,R
+   2,R,J
+  10,R,D,X,G
+  13,R,G
+   2,R,J,G
+
+   6,R,G
+   1,L
+   1,R
+   7,R,J
+  14,R,D,X
+   4,R,J
+   5,R,D,X
+   6,R,J,G
+  12,R
+  11,R,J
+  14,R,D,X
+   3,R
+  12,R,J
+  14,R,D,X
+  
+
+ 100
+
+#best to eye
+#  11,R,J
+#  14,R,D,X
+#   3,R
+#  12,R,J
+#  14,R,D,X
+
+#best to golden
+#  11,R,J
+#  14,R,D,X
+#   3,R
+#   1,R,J
+#  14,R,D,X
+
+#two d-ultras
+#   4,R,J
+#  11,R,D,X
+#   1,R,J,G
+#  16,R
+#   1,R,J
+#  14,R,D,X

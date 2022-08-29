@@ -1,0 +1,59 @@
+console load 5 8613 1184
+   1
+   4,D,X
+  10,L
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+   8,R
+
+# eybaell room
+  40
+   3,R
+   2,R,J
+  10,R,D,X,G
+  13,R,G
+   2,R,J,G
+   6,R,G
+   1,L
+   1,R
+   1,R,J
+   3,R
+   1
+  13,R,D,X
+   3,R,J,G
+   9,R
+  12,R,J,G
+  14,R,D,X
+   3,R,J
+   8,R
+   7,R,J
+  14,R,D,X
+   1,R
+   2,R,J
+   3,R,K,G
+  14,R,D,X
+
+ 100
+
+
+#bhop eyeball ending
+#  12,R,J
+#  14,R,D,X
+#   3,R,J
+#   8,R
+#   7,R,J
+#  14,R,D,X
+#   1,R
+#   2,R,J
+#   3,R,K,G
+#  14,R,D,X
+
+#orig ending
+#  12,R,J
+#  14,R,D,X
+#   3,R,J
+#   1,R,K,G
+#  16,R
+#   1,R,J
+#  14,R,D,X

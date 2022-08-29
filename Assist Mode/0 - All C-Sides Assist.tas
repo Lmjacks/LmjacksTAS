@@ -1,0 +1,66 @@
+#Start from Begin
+
+Read,StartFullGameFileAssist
+
+Read,LoadEnableCheatMode
+
+Read,LoadCCheatMode,SelectC,Move2
+   1,R
+   9
+Read,LoadCCheatMode,Move2
+
+Read,2C,Start,Options
+   1,S
+   1,F,180
+   1,D,J
+   1,O,F,180
+   1,R,D
+   1,F,90
+   1,D
+   1,O,F,180
+   1,S
+   9
+Read,2C,Options
+
+Read,LoadCCheatMode,0,City
+   1,L
+   9
+Read,LoadCCheatMode,Move2
+
+Read,1C,Start
+
+Read,LoadCCheatMode,0,Move2
+   1,R
+   9
+Read,LoadCCheatMode,Move2
+
+Read,3C,Start
+
+Read,LoadCCheatMode
+
+Read,4C,Start
+
+Read,LoadCCheatMode
+
+Read,5C,Start
+
+Read,LoadCCheatMode
+
+Read,6C,Start
+
+Read,LoadCCheatMode
+
+Read,7C,Start
+
+Read,LoadCCheatMode,0,GoldBerry
+  50
+Read,LoadCCheatMode,GoldBerry,Move2
+   1,R
+   9
+Read,LoadCCheatMode,Move2
+
+Read,8C,Start
+
+#Move to ending screen
+  59
+   1,J

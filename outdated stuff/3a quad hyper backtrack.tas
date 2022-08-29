@@ -1,0 +1,59 @@
+console load 3 2381 -376
+   1
+
+#lvl_01-c
+  36
+   4,D,X
+   1,R,J
+   6,R
+  40
+
+#lvl_02-c
+   1,R
+   3,R,J
+  15,R,D,X
+   4,R,J
+  12,R
+  13,R,J
+  15,R,D,X
+   2,R,J
+  12,R
+   9,R,J
+   3,R
+  17,R,D,X
+   1,R,J
+  13,R,D,X
+ 100,R
+
+console load 3 2378 -367
+   1
+
+#lvl_01-c
+  36
+   1,R,J,G
+   2,R
+   4,D,X
+   1,R,X
+   1,R,J
+   6,R
+  40
+
+#lvl_02-c
+   3,R,J
+  15,R,D,X
+   4,R,J
+  12,R
+  13,R,J
+  15,R,D,X
+   1,R,J
+   5,R
+   1,R,K
+   4,R
+   5,R,D,J
+   4,R
+  15,R,D,X
+   1,R,J
+   1,R
+  14,R,D,X
+#2.601
+  40

@@ -1,0 +1,151 @@
+#by lmjacks
+
+#console, load, Sandfhhh/Return To The Mountain/2-City
+   1
+
+unsafe
+   1,J
+  46
+
+#Start
+#lvl_1A
+  33
+   6,L,D,X
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+   2,R,J
+  15,R,D,X
+  11,R,J
+   2,R
+   3
+   5,R,D,X
+  40
+
+#lvl_1B
+  10,R,D,X
+   1,R,D
+   7,R,J
+   5,R,D,X
+   5,R,J,G
+   5,R
+   1,R,K
+   2,R
+   1
+   5,R,J
+  10,R
+   1
+  40
+
+#lvl_1C
+  14,R,U,X
+   2,R,J,G
+   7,R
+   1,R,K
+   1,R
+   2,R,K
+   8,R
+   8,R,J
+  11,R,D,X
+  40
+
+#lvl_1D
+   4,R,D,X
+   9,R,J
+   8,R
+  14,R,U,X
+   1,R,J,G
+   1,R
+   1
+   8,R
+   3,R,J
+   1,R
+   2
+   9,R,D,X
+  40
+
+#lvl_1E
+   6,R,D,X
+   4,R,J
+   4,R
+  10,R,D,X
+  13,R,J,G
+  24,R,D,X
+   1,R,J
+  40
+
+#lvl_1F
+   1,J
+   2,R,J
+   7,R
+   2,R,K
+   2,R
+  14,R,U,X
+  11,R,J,G
+   7,R
+   9,R,J
+   1,J
+   8,R,D,X
+  40
+
+#lvl_1G
+   7,R,D,X
+  20,R,J
+  15,R,D,X
+   6,R
+   3,R,D
+   1,R
+   1,R,D
+   5,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   3,R,K,G
+   7,R,J,G
+  40
+
+#lvl_1H
+   3,R,J
+  15,R,D,X
+   3,R,D
+   1,R,J
+  29,R,D
+   1,R
+  18,R,U,X
+  14,R,Z
+   3,R,J
+   1,R
+   1,R,K
+   7,R
+  15,R,U,X
+  24,R
+  30,R,D,X
+  10,R,D,C
+  10,R,J
+   3
+  11,U,X
+  13,R
+  14,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   4,R,K,G
+  11,R,D,X
+  40
+
+#lvl_1I
+   3,R,D,X
+   1,R,J
+  13,R,D,X
+   1,S
+   1,D,J
+  34
+  12,R,D
+  57,R,D,X
+   4,Z
+   1,L,J
+  80,L
+  60
+   1,J
+#18.734(1102)

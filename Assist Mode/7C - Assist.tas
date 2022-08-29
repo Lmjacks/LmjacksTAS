@@ -1,0 +1,157 @@
+#TAS By Lmjacks
+
+console rmx2 7
+   1
+
+Set, AssistMode, true
+Set, DashMode, Infinite
+Set, Invincible, true
+Set, InfiniteStamina, true
+
+#Start
+#lvl_01
+  61
+  11,R,J
+   4,D,X
+  10,U,X
+   1,J
+  14,U,X
+   6,R,J
+  14,U,X
+  12,R,J
+  16,R,U,X
+   2,R,J,G
+   4,D,X
+   1,R,X
+   1,R,J
+  12,R
+  18,R,J
+  15,R,U,X
+  15,R,U,C
+  15,R,U,X
+  15,R,U,C
+  15,R,U,X
+  15,R,U,C
+  15,R,U,X
+  15,R,U,C
+  15,R,U,X
+  15,R,U,C
+  15,R,U,X
+  15,R,U,C
+   4,D,X
+  11,R,U,X
+  15,R,U,C
+  15,R,U,X
+  15,R,U,C
+  13,R,U,X
+  40
+
+#lvl_02
+  11,R
+  15,R,U,X
+  15,R,C
+  15,R,X
+  15,R,C
+  15,R,U,X
+  15,R,U,C
+  15,R,U,X
+  15,R,U,C
+  15,R,X
+   4,D,C
+  10,R,C
+   1,R,J
+  15,R,D,X
+  14,R,U,C
+  71
+  40
+
+#lvl_03
+  69
+   4,R,X
+   3,J
+   2,R,J
+   6,R,K,G
+   1,R
+  11,R,U,X
+   1,J,G
+   6,R
+   1,R,K
+   4,L
+   4,D,X
+   1,R,J
+   9,R,K,G
+   2,R
+  15,R,D,X
+   1,R,J
+   1,J
+   2,R,J
+   2,R
+  15,R,D,X
+   2,R,J
+  12,R,X
+   2,R,J,G
+  16,R,K,G
+  16,R,D,X
+   1,J
+  10,R,J
+   1,J
+  15,R,D,X
+   3,R,J
+   8,R
+  14,R,U,X
+  11,R,J,G
+   6,R
+  15,R,D,X
+  15,R,D,C
+   7,R
+   1,R,J
+  15,R,D,C
+  15,R,D,X
+  15,R,D,C
+   9,R,D,X
+   7,R,J
+  14,R
+   1,R,J
+  15,R,D,X
+  15,R,D,C
+  15,R,D,X
+  15,R,D,C
+  15,R,D,X
+  15,R,D,C
+  17,R,D,X
+  12,R,D,C
+  22,R,J
+  15,R,U,X
+   4,R,J,G
+   2,R
+   4,D,X
+   2,R,X
+   1,R,J
+   6,R
+   1,R,J
+   1,R
+  23,R,D,X
+   5,R,J
+   6,R,D,X
+   1,R,J,G
+  12,R
+   1,R,J
+   1,J
+   7,R,J
+   4,R
+  10,R,D,X
+   1,R,J,G
+   3
+   9,R
+   3,R,J
+   5,R,D,X
+   1,R,J,G
+  11,R
+   3,R,J
+   5,R,D,X
+   1,R,K,G
+  11,R
+   2,R,J
+  15,R,U,X
+ 135,R,D,C
+#22.899(1347)

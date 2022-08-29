@@ -1,0 +1,223 @@
+console load 1
+  89
+
+#lvl_1
+  10,R,X
+   8,R,J
+   7,R,K,G
+  14,R,U,X
+   3,R,K,G
+   9,R
+  13,R,X
+  18,R,J
+  10,U,X
+   5,L
+   4,L,K,G
+  40
+
+#lvl_2
+   3,L,K,G
+   8
+   4,D,X
+   1,R,J
+   5,R
+  14,R,J
+  13,R,U,X
+   4,R,K,G
+  19,R
+   3,R,J
+   2,J
+  15,U,X
+  17,J
+  11,K
+  40
+
+#lvl_3
+   8,L
+   4,L,K,G
+   2,K
+  12,U,X
+  15,R,J
+  12,R
+  14,R,Z
+   8,R,J
+  12,R
+  14,R,X
+  11,R,J
+  14,U,X
+  40
+
+#lvl_4
+  11,J
+  15,U,X
+   6,R,J
+  12,R
+  13,R,Z
+   5,R,J
+   8,R
+  14,U,X
+  10,R,J
+  40
+
+#lvl_3b
+  12,R
+  12,R,X
+  12,R,J
+  12,U,Z
+  26,R,J
+   5,R
+  10,R,U,Z
+   4,L
+  11,K,G
+  40
+
+#lvl_5
+   2,R
+   4,R,J,G
+   5,R
+  15,R,X
+  15,R
+   2
+   9,L,D,X
+   3,R
+   4,R,J
+  26,R,K,G
+  15,R,Z
+  17,R
+   1,R,J
+  11,L,J
+   4,K,G
+  15,U,X
+  43
+
+#lvl_5
+   1,R
+  12,R,J
+   8,L,J
+   8,L,K,G
+  12,L,J,G
+   7,L,Z
+   6,R
+   2,R,J
+  13,R,U,X
+  12,R,K,G
+  13,R
+   1,R,J,G
+  23,R,D
+   5,R
+   4,D,Z
+   3,R,J
+  40
+
+
+
+#lvl_1
+  10,R,X
+   8,R,J
+   7,R,K,G
+  14,R,U,X
+   3,R,K,G
+   9,R
+  12,R,X
+  20,R,J
+  10,U,X
+   7,L
+   2,L,K,G
+  40
+
+#lvl_2
+   3,L,K,G
+   8
+   4,D,X
+   1,R,J
+   5,R
+#early jump press during bhop
+#saves a frame in exit
+#wicked
+  14,R,J
+  13,R,U,X
+   4,R,K,G
+  19,R
+   3,R,J
+   2,J
+  15,U,X
+  17,J
+  11,K
+  40
+
+#lvl_3
+   8,L
+   4,L,K,G
+   2,K
+  12,U,X
+  15,R,J
+  12,R
+  13,R,Z
+  15,R,J
+  10,R
+  12,R,X
+  10,R,J
+  15,U,X
+  40
+
+#lvl_4
+  12,J
+  14,U,X
+   6,R,J
+  13,R
+  14,R,Z
+   4,R,J
+   7,R
+   1
+  14,U,X
+  10,R,J
+  40
+
+#lvl_3b
+  12,R
+  12,R,X
+  12,R,J
+  12,U,Z
+  26,R,J
+   5,R
+  10,R,U,Z
+   4,L
+  11,K,G
+  40
+
+#lvl_5
+   2,R
+   4,R,J,G
+   5,R
+  15,R,X
+  15,R
+   2
+   9,L,D,X
+   3,R
+   4,R,J
+  28,R,K,G
+  15,R,Z
+  19,R
+   1,R,J
+  14,L,J
+  15,U,X
+  43
+
+#lvl_5
+   1,R
+  12,R,J
+   8,L,J
+   8,L,K,G
+  12,L,J,G
+   7,L,Z
+   6,R
+   2,R,J
+  13,R,U,X
+  12,R,K,G
+  13,R
+   1,R,J,G
+  23,R,D
+   5,R
+   4,D,Z
+   3,R,J
+  40

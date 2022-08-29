@@ -1,0 +1,97 @@
+#
+#Restart
+   1,Q
+   1,J
+  31
+
+#lvl_start
+ 190
+   1,D,X
+   5,R,X
+   1,R,J
+   7,R
+   1,R,J
+   8,R,D,X
+  40,R
+
+#lvl_0
+   6,R
+   1,R,J
+  11,R,D,X
+   2,R,J
+   9,R
+   1,R,J
+  11,R,D,X
+   8,R,J
+   4,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   8,R,D,X
+  40
+
+#lvl_1
+   1,R,D,X
+   1,R,J
+   7,R
+  11,R,J
+   1,R,K,G
+   8,R
+  15,D,X
+   4,R,D
+   4,L,D
+  40
+
+#lvl_d0
+   2,D
+  11,L
+  15,L,D
+  23,D
+  24,R,D
+   9,R,D,J
+  10,L,D,X
+   4,R,D,J
+  16,R,D,X
+   1,R,D,J
+  23,R,D,X
+  40
+
+#lvl_d2
+   2,R,J
+  14,R,U,J,X
+   4,R
+   6,R,J,G
+   7,R
+   1,R,D,X
+   5,R,J
+   8,R
+   3,R,J
+  14,R,D,X
+  10,R,D
+   9,R,J
+   5,R
+   1,D,X
+  13,R,X
+   6,R,J
+  14,R,D,X
+   4,R,D
+  12,R,D,J
+   8,U,X
+   8,R,J
+  13,R
+   4,R,D,X
+   1,R,J
+   4,R
+  40
+
+#lvl_d3
+   3,R
+   3,R,J
+  15,R,D,X
+   6,R,D
+  10,R,J
+   4,R
+   4,R,X
+  10,R
+   1,X
+  30

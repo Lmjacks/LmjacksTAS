@@ -1,0 +1,163 @@
+console load Salad/TheolessTheo/doorlessTheo
+#e-00
+   1
+ 190
+   4,D,X
+   8,R
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   6,R
+   1,R,J
+  13,R,D,X
+
+#e-01
+  40
+   1,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+   1,R,J
+   7,R
+   8,R,J
+   7,R,K,G
+   3,R
+  14,R,D,X
+   1,R
+   4,R,J
+
+#e-02
+  40
+   6,R,J
+   8,R
+   4,D,X
+  10,R
+   1,R,J
+  12,R,D,X
+   1,R,J
+   7,R
+   3,R,J
+  14,R,D,X
+   2,R,J
+   9,R
+
+#e-03
+  40
+   5,R
+   7,R,J
+   4,D,X
+   8,R
+   3,R,J
+  13,R,D,X
+   6,R,J
+   4,R,K,G
+   1,R
+  14,R,D,X
+   6,R,J
+   2,L,J
+   2,L,K,G
+   7,R,K
+  14,R,D,X
+   1,R
+   1,R,J
+  11,R,D,X
+
+#e-04
+  40
+   3,R,D,X
+   1,R,J
+   7,R
+   7,R,J
+   4,D,X
+   7,R
+   5,R,J
+  14,R,D,X
+   3,R
+   2
+   4,R,J
+  10,R,K,G
+   7,R,J,G
+***
+  14,R,D,X
+   1,R
+   1,R,J
+  13,R,D,X
+
+#e-05
+  40
+   1,R,D,X
+   1,R,J
+   7,R
+  10,R,J
+   5,R,K,G
+  12,R,D,X
+   5,R,J
+  14,R,D,X
+   2,R
+   4,R,J
+  13,R,K,G
+
+  14,R,D,X
+   3,R
+   9,R,J
+   7,R,D,X
+   1,R,J,G
+  18,R
+   6,R,J
+
+#e-06
+  40
+
+  14,R,J
+  10,R,U,X
+   2,R,J,G
+  33,R,D
+   4,R,D,X
+   1,R,J
+
+#e-07
+  40
+   7,R
+  10,R,J
+   2,R,K,G
+
+  17,R
+   4,D,X
+   5,L
+   1,R,J
+   7,R
+   9,R,J
+  18,R
+
+   1,R,J
+   5,R
+
+#e-08
+  40
+   9,R
+   9,R,D,J
+   5,R
+  14,R,D,X
+   9,R,D
+   1,R,J
+   7,R,K,G
+
+#e-09
+  40
+
+   6,R,K
+   5,R
+
+   4,D,X
+   9,R
+
+
+
+
+
+
+
+
+ 100

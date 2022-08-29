@@ -1,0 +1,49 @@
+Read,StartFullGameFile
+
+Read,1CC,Start
+
+Read,Load2CC
+
+Read,2CC,Start
+
+Read,LoadAFromBCustom
+
+Read,3CC,Start
+
+Read,LoadAFromBCustom
+
+Read,4CC,Start
+
+Read,LoadAFromBCustom
+
+Read,5CC,Start
+
+Read,LoadAFromBCustom
+
+Read,6CC,Start
+
+Read,LoadAFromBCustom
+
+Read,7CC,Start
+
+Read,LoadAFromBCustom
+
+Read,8CC,Start
+
+Read,LoadAFromBCustom
+
+Read,9CC,Start,Return
+
+Read,LoadEpilFrom9CC
+
+Read,EpilogueCC,Start
+
+#Journal
+  52
+   1,X
+  20
+   1,N
+  30
+   1,R
+ 300
+   1,R
