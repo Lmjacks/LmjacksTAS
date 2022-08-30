@@ -1,0 +1,101 @@
+console load 2 end_0
+  37
+***S
+   4,D,X
+   1,L,J
+   1,L
+   5,L,K,G
+   2,L
+   3,L,K,G
+   8,L
+  14,L,D,X
+   1,R,J
+   6,R,D,X
+   1,R,K,G
+  11,R
+   3,R,J
+  15,R,D,X
+   5,R,J
+  40
+
+#lvl_end_1
+   3,R,J
+  15,R,D,X
+   4,R,J
+   1,R,K,G
+   3,K
+   4,R,K
+   2,R
+   7,R,D,X
+   1,R,J,G
+  11,R
+   1,R,J
+  40
+
+#lvl_end_2
+   8,R,J
+   2,R,K,G
+   1,K
+   2,R,K
+   2,R
+  17,R,D,X
+  40
+
+#lvl_end_3
+   3,R,D
+  12,R,D,J
+  10,R,K,G
+   1,R
+   1
+  40
+
+#lvl_end_4
+   6
+   1,R
+   3
+  10,R,D
+   1,D
+   3,R
+   1,R,D
+   1,R
+   2,R,J
+   9,R
+  40
+
+#lvl_end_3b
+   4,R,J
+   6,R
+   1,R,J
+   1,R
+   2,R,J
+   4,R
+   2,R,K
+   7,R
+   1,R,J
+   6,R
+   3,R,K
+  13,R
+   1,R,D,J
+   1,J
+  40
+
+#lvl_end_5
+   8,R,J
+   3,J
+   1,R
+   7
+   1,R,K,G
+   3
+  21,R,D
+   5,R
+   7,R,J
+   1,R,K,G
+   8,R,J,G
+  40
+
+#lvl_end_6
+  12,R,J
+   2,R
+   1,R,K
+   7,R
+#0:10.642(626)
