@@ -1,9 +1,6 @@
 #by Lmjacks and Vamp
-unsafe
-#console load ssp/xolimono/ssp
-   1
-   1,J
-  46
+
+console load ssp/xolimono/ssp
 
 #Start
  103
