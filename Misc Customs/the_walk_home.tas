@@ -1013,23 +1013,22 @@ console, load, The Walk Home/Saplio/thewalkhome
   10,X
    2,R,J
    1,J
-   1,R,K,G
-   1,K
+   2,R,K,G
   13,R,D,X
    1,L,J
    4,L
    1,L,K
-   1,L
-   1
+   2,L
    2,D
-  15,D,X
-  26,D
-   1,L,D
+  16,D,X
+   9,L,D
+  14,R,D
    1,D
-  18,R,D
-   2,R
-   2,R,D
-   8
+  25,R,D
+   3
+   2,D
+   3
+   1,L
    4,Z
    1,R,J
    1,R,K
@@ -1037,40 +1036,39 @@ console, load, The Walk Home/Saplio/thewalkhome
    1,R,K
    1,R,J
    1,R,K
+   2,R,J,G
+   1,R,K
    1,R,J
-   2,R,K
-   2,R
+   1,R
+   1
    8,R,D,X
-   1,R,J,G
+   2,R,J,G
    1,R
    1,R,J
    1,R,K
   15,R
-   2,R,D,J
+   1,R,J
   40
 
 #lvl_final_stretch-05
-   8,R,J
-   4,R
-  15,R,D,X
-   1,R
-   1,R,D
-  50,R,D,X
-   6,R,D,K
+  10,R,J
+  15,R,D,K,X
    2,R,K
-   3,R
-  41,R,J
-  14,R,U,X
-   9,R,J,G
-   9,R
+  30,R,J
   15,R,D,X
-  12,D
+  53,R
+   1
+   4,J
+   3
+  15,R,D,X
+  13,D
   40
 
 #lvl_final_stretch-06
-  24,R,D
+  15,D
+   8,R,D
    7,R,Z
    1,S
    1,D,J
   18
-ChapterTime: 1:43.547(6091)
+ChapterTime: 1:43.122(6066)
