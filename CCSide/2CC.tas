@@ -2,8 +2,9 @@ console load Ezel/2CC
    1
 
 #Start
-#lvl_B-01
  190
+
+#lvl_B-01
    4,R,D,X
    1,R,J
    7,R
@@ -556,7 +557,7 @@ console load Ezel/2CC
   11
   16,J
   74,U,X
-  15,U,C
- 136
-  60
-   1,J
+  16,U,C
+ 135
+
+ChapterTime: 1:22.433(4849)

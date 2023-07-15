@@ -2,8 +2,9 @@ console load Ezel/1CC
    1
 
 #Start
-#lvl_A-01
   61
+
+#lvl_A-01
    4,D,X
    1,R,X
    1,R,J
@@ -190,7 +191,6 @@ console load Ezel/1CC
   26,R,D
    6,R
    5,R,X
-#1426.16, 96.92
   11,R,J,G
   10,R
    1,R,J,G
@@ -456,6 +456,7 @@ console load Ezel/1CC
   40
 
 #fuck
+#lvl_A-Cassette
    4,R,D,X
    1,L,K,G
   18,R,K
@@ -544,33 +545,9 @@ console load Ezel/1CC
   13,L,J
    1,D,X
    1,U,X
+Repeat, 14
    2,L
    2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-  60
-   1,J
+EndRepeat
+
+ChapterTime: 1:05.790(3870)

@@ -1,30 +1,10 @@
 console load Ezel/7CC
    1
 
-#console load Ezel/7CC 3024 -352
-#play,Section 1000m,37
-
-#console load Ezel/7CC 6051 -2520
-#play,Section 2000m,37
-
-#console load Ezel/7CC 9712 -5440
-#play,Section 3000m,37
-
-#console load Ezel/7CC 9704 -8816
-#play,flag_8,37
-
-#console load Ezel/7CC 13016 -9816
-#play,flag_5,37
-
-#console load Ezel/7CC 15304 -10424
-#play,flag_2,37
-
-#console load Ezel/7CC 18350 -11535
-#play,Section Cassette,37
-
 #Start
-#lvl_G-01
   80
+
+#lvl_G-01
    4,D,X
    1,R,J
    2
@@ -55,8 +35,7 @@ console load Ezel/7CC
   23,R
   15,R,X
    9,R
-   2
-   3
+   5
    4,D,X
   11,R,U,X
    1
@@ -324,7 +303,6 @@ console load Ezel/7CC
 
 #lvl_G-03
   65
-#Section 1000m
    4,R,X
   11,R,J
   20,R,U,X
@@ -611,7 +589,6 @@ console load Ezel/7CC
    7,U,X
   11,L,J
   14,R,J
-#Section 2000m
    1,R
    8,K,G
   40
@@ -1026,7 +1003,7 @@ console load Ezel/7CC
    7,L
    6,L,J
    7,L
-  10,L,J,G
+  10,L,J
    4,L
    1
    4,L,J
@@ -1083,7 +1060,6 @@ console load Ezel/7CC
 
 #lvl_G-07a
   69
-#Section 3000m
 
 #flag_12
   10,L,X
@@ -1647,7 +1623,7 @@ console load Ezel/7CC
   40
 
 #lvl_G-07d
-  70
+  69
 
 #flag_2
    4,D,X
@@ -1885,7 +1861,6 @@ console load Ezel/7CC
    7,L,D
   10,L,D,X
    6,L,J
-#Section Cassette
   10,L,U,X
  211
   40
@@ -1974,8 +1949,7 @@ console load Ezel/7CC
   31
    1,S
    1,D,J
-   1,O
-  68
+  69,O
    6,R,J
    4,R
   15,U,X
@@ -1984,66 +1958,10 @@ console load Ezel/7CC
   15,U,X
   14,U,C
   12
+Repeat,30
    2,R
    2,L
+EndRepeat
    2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-  60
-   1,J
+
+ChapterTime: 5:15.588(18564)

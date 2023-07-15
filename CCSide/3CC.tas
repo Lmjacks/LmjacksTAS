@@ -2,8 +2,9 @@ console load Ezel/3CC
    1
 
 #Start
-#lvl_C-01
   61
+
+#lvl_C-01
    4,D,X
    3,L,X
    1,R,J
@@ -100,7 +101,6 @@ console load Ezel/3CC
    1
   15,R,X
   15,R,D,C
-***
   34,L,D
   40
 
@@ -172,8 +172,7 @@ console load Ezel/3CC
   11,L,X
    1,S
    1,D,J
-   1,O
-  68
+  69,O
   11,L,J
   13,U,X
   40
@@ -324,7 +323,6 @@ console load Ezel/3CC
    2,R
   23,R,D
   15,R,X
-#done with coins
    6,R
    1
    4
@@ -604,6 +602,5 @@ console load Ezel/3CC
   15,R,J
   14,U,X
  135
-  60
-   1,J
-#1:18.353
+
+ChapterTime: 1:18.353(4609)

@@ -1,12 +1,10 @@
 console load Ezel/4CC
    1
 
-#console load Ezel/4CC 8002 -2152
-#play,Section D-06,37
-
 #Start
-#lvl_D-01
   69
+
+#lvl_D-01
    4,R,D,X
    1,R,J
    7,R
@@ -265,7 +263,6 @@ console load Ezel/4CC
    4,L,D,X
   10,L,J
    7,L
-#BARBULK
   15,U,X
   12,L
   15,D,X
@@ -347,7 +344,7 @@ console load Ezel/4CC
    8
   15,U,X
   10
-  12,R
+  13,R
   15,R,X
   15,R,C
   15,R,X
@@ -360,7 +357,7 @@ console load Ezel/4CC
   15,R,C
    4,D,X
   11,L,U,X
-  11,L
+  10,L
    2
    2,J,G
    4,L
@@ -377,7 +374,6 @@ console load Ezel/4CC
    1,R,K,G
    4,R,J,G
    8,R
-#Section D-06
    4,D,X
    1,R,J
    6,R
@@ -625,5 +621,5 @@ console load Ezel/4CC
   18,L,X
   78,L,K
   43,J
-  60
-   1,J
+
+ChapterTime: 1:20.529(4737)

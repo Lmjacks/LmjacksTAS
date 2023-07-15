@@ -2,8 +2,9 @@ console load Ezel/6CC
    1
 
 #Start
-#lvl_F-01
   80
+
+#lvl_F-01
   10,L,X
    8,L,J
   10,K,G
@@ -213,8 +214,7 @@ console load Ezel/6CC
   11,R,J
    7,R
   15,R,U,X
-  22,R
-   4,R,D
+  26,R
    4,D,X
    2,R,X
    1,R,J
@@ -499,5 +499,5 @@ console load Ezel/6CC
    2,L
    2,R
    2,L
-  60
-   1,J
+
+ChapterTime: 1:22.824(4872)

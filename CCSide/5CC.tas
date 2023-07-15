@@ -1,12 +1,10 @@
 console load Ezel/5CC
    1
 
-#console load Ezel/5CC 1760 -1832
-#play,Section pt2,37
-
 #Start
-#lvl_E-01
   76
+
+#lvl_E-01
    4,D,X
    1,R,J
    7,R
@@ -274,15 +272,8 @@ console load Ezel/5CC
    1,O
   32
 
-#s+q saves 9f
-#if you add it
-#you sell your
-#soul to satan
-
 #lvl_c-00
  190
-
-#Section pt2
    1,R
    3,R,J
   18,R
@@ -341,10 +332,13 @@ console load Ezel/5CC
    1,R,D
    1,L,D
   11,D
-  11,R
+   2,R,D
+   9,R
    4,D,X
-   1,R,J
-  10,R
+   4,R,J
+   8,R
+   1
+   1,R
    6,R,D,C
    1,R,J
    7,R
@@ -425,8 +419,8 @@ console load Ezel/5CC
    3,R,J,G
    1,R
   14,R,D,X,G
-   5,R,G
-   6,R,J,G
+   6,R,G
+   5,R,J,G
    5,J,G
    1,G
    3
@@ -440,7 +434,7 @@ console load Ezel/5CC
    2,R,J
    1,R,K,G
    1,R,J,G
-  12,R,D
+  12,R
   23,L,D
   14,R,D,X
    1,R,J
@@ -451,8 +445,7 @@ console load Ezel/5CC
  
 #lvl_E-06
   15,R,J,G
-   1,K,G
-  11,R,K,G
+  12,K,G
    1,R
   14,U,X
   24,R,G
@@ -699,5 +692,5 @@ console load Ezel/5CC
    9
    1,K
    7
-  60
-   1,J
+
+ChapterTime: 1:53.203(6659)

@@ -1,53 +1,10 @@
 console load Ezel/9CC
-play,Start,1
-
-#console load Ezel/9CC 3294 216
-#play,Section 02,37
-
-#console load Ezel/9CC 6840 -191
-#play,Section 04,37
-
-#console load Ezel/9CC 15519 -168
-#play,Section 05,37
-
-#console load Ezel/9CC 20873 -545
-#  37
-#  12,L,D,X
-#   5,R,J
-#   2,R,K,G
-#  13,R,D,X
-#   1,R,J
-#   1,J
-#play,Section 06
-
-#console load Ezel/9CC 27377 -705
-#  37
-#  15,U,X
-#   6
-#   6,L
-#   1,R
-#   2
-#  12,K,G
-#   2,J,G
-#   1,R,K,G
-#   7,R
-#   5,J
-#   6,R,J
-#  12,R,D,X
-#  12
-#   3,R
-#   4,D,X
-#   1,R,J
-#   1
-#   1,R,D
-#play,Section 07
-
-#console load Ezel/9CC 33899 -747
-#play,Section 07c,37
+   1
 
 #Start
+  84
+
 #lvl_I-01a
-  85
    4,D,C
   15,R,J
    4,R
@@ -128,9 +85,8 @@ play,Start,1
   15,L,D,X
    4,L,D
   15,L,X
-  12,L
-   1,R
-  44
+  11,L
+  46,R
    4,D,X
    2,R,X
    1,R,J,G
@@ -210,7 +166,6 @@ play,Start,1
   15,R,U,C
   22,R
    7,R,D
-#Section 02
    4,D,X
    3,R,J
    1,R
@@ -601,7 +556,6 @@ play,Start,1
    6,R
    4,R,J
    5,R
-#Section 04
   15,U,X
    1,S
    1,D,J
@@ -734,6 +688,7 @@ play,Start,1
   33,R,J
    4,D,X
   11,R,U,X
+***s
   14,U,C
   11,R,J
   33,R
@@ -764,18 +719,17 @@ play,Start,1
    2,R
   25,R,D,X
    3,J
-   5,R,J
-   3,R
+   6,R,J
+   2,R
    4,D,X
    4,R,U,X
   40
 
 #lvl_I-04c
-   8,R,U,X
+***
+   5,R,U,X
    1,R,J,G
    6,R
-   1,R,J
-   1,R
   15,U,X
   18,R,U,C
   15,R,X
@@ -836,7 +790,6 @@ play,Start,1
    4,D,X
   10,R,X
    1,R,J
-#Section 05
   13,R,D,X
    1,R,J
    7,R
@@ -1243,7 +1196,6 @@ play,Start,1
    2,R,K,G
   13,R,D,X
    2,R,J
-#Section 06
    5,R,D,X
   28,R
    2
@@ -1605,7 +1557,6 @@ play,Start,1
    3,R
    4,D,X
    1,R,J
-#Section 07
   38,R,D
    4,D,X
    1,R,J
@@ -1828,7 +1779,6 @@ play,Start,1
    7,R
    3,R,J
    2,R,K,G
-#Section 07c
   14,R,D,X
    1,R,J
    7,R,D,X
@@ -2074,6 +2024,9 @@ play,Start,1
  117,F,359
   14,U,X
   38
+
+ChapterTime: 5:59.737(21161)
+
 #Return
    1,S
    1,D,J
