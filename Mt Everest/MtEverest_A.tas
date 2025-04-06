@@ -42,7 +42,7 @@ console load MtEverest/0/MtEverest
    4,D,X
    7,R,U,X
   40
-  
+
 #lvl_a01
    3,R,U,X
    1,L,K,G
@@ -917,7 +917,7 @@ console load MtEverest/0/MtEverest
    2,R
   40
 
- #lvl_c07
+#lvl_c07
    7,R
    2,L
 #Crystal Oasis
@@ -2510,7 +2510,7 @@ console load MtEverest/0/MtEverest
    3,R,U,X
    7,R,J,G
   40
-   
+
 #lvl_g04
    3,R,J
    5,R

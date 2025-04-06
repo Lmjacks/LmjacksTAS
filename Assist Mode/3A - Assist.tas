@@ -967,7 +967,7 @@ console load 3
    9,R,D,X
    9,R,J,G
   40
-  
+
 #lvl_13-b
    5,R
    2,R,K
@@ -1448,7 +1448,7 @@ console load 3
    1,R,J
    6,R,D,K
   40
-  
+
 #lvl_roof04
    2,R,K
   15,R,D,X
@@ -1462,7 +1462,7 @@ console load 3
    5,R
    1,R,K
   40
-  
+
 #lvl_roof05
    8,R,K
    2,R

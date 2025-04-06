@@ -451,7 +451,7 @@ console load Ythundyth/map/3L
    7,R,X
    1,R,J
    1,R,J
-   
+
 #lvl_1-10
   40
    1,J
@@ -706,7 +706,7 @@ console load Ythundyth/map/3L
   14,R,U,X
    1,J,G
    3
-   
+
 #lvl_2-4
   40
    1
@@ -813,7 +813,7 @@ console load Ythundyth/map/3L
   13,R,D
   10,R,D,X
    8,R,J
- 
+
 #console load Ythundyth/map/3L 17547 505
 #   1
 #  36
@@ -1475,5 +1475,3 @@ console load Ythundyth/map/3L
 #lvl_4-1
   40
   20
-
-

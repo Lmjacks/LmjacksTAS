@@ -116,7 +116,7 @@ read,AssMenu,DashGod,ExitDG
    1,J
   10,U,X
   43
- 
+
 #lvl_6
   16,R,J
   14,U,X
@@ -135,7 +135,7 @@ read,AssMenu,DashGod,ExitDG
    7,R,J
   15,R,D,X
   43
- 
+
 #lvl_6a
    9,R
   15,L,D,X
@@ -153,7 +153,7 @@ read,AssMenu,DashGod,ExitDG
   15,R,D,X
    9,R,D,J
   40
- 
+
 #lvl_6b
    3,R,J
   14,R,X
@@ -168,7 +168,7 @@ read,AssMenu,DashGod,ExitDG
    6,R,J
    6,R,U,X
   40
- 
+
 #lvl_6c
    9,R,U,X
   14,R,U,C
@@ -189,7 +189,7 @@ read,AssMenu,DashGod,ExitDG
    2,K
    9,U,C
   43
- 
+
 #lvl_7
   11,R,J
   15,R,U,X
@@ -199,7 +199,7 @@ read,AssMenu,DashGod,ExitDG
    1,R,J
   15,U,X
   40
- 
+
 #lvl_8
    1,R,J
   10,R
@@ -217,7 +217,7 @@ read,AssMenu,DashGod,ExitDG
    1,R,J
    3,R
   40
- 
+
 #lvl_8b
    4,R
    2,R,J
@@ -235,7 +235,7 @@ read,AssMenu,DashGod,ExitDG
    1,R,J
    7,U,X
   40
- 
+
 #lvl_9
   15,R,J
   10,R,X
@@ -252,7 +252,7 @@ read,AssMenu,DashGod,ExitDG
    1,R,K,G
   12,R,D
   40
- 
+
 #lvl_9b
    4,D,X
    6,R,U,X
@@ -262,7 +262,7 @@ read,AssMenu,DashGod,ExitDG
   16,U,C
   11,U,X
   40
- 
+
 #lvl_10a
    1,R,J
    5,R
@@ -287,7 +287,7 @@ read,AssMenu,DashGod,ExitDG
    1,J
   18,U,X
   40
- 
+
 #lvl_11
   11,L,J
   17,L,X
@@ -308,7 +308,7 @@ read,AssMenu,DashGod,ExitDG
    1,J
    9,U,X
   40
- 
+
 #lvl_12
    1,R,K,G
    1,R,J,G
@@ -324,7 +324,7 @@ read,AssMenu,DashGod,ExitDG
    9,R,J,G
    9,R,U,X
   40
- 
+
 #lvl_12a
    6,R,U,X
   14,U,C
@@ -340,7 +340,7 @@ read,AssMenu,DashGod,ExitDG
    8,U,X
    1,R,J
   40
- 
+
 #lvl_end
    3,R
    1,R,K,G

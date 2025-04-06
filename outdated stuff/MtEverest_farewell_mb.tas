@@ -226,7 +226,7 @@ console load MtEverest/0/MtEverest 20205 -10568
    1,R,J,G
   14,R
   40
-   
+
 #lvl_g01
    7,R
    3,R,D
@@ -417,7 +417,7 @@ console load MtEverest/0/MtEverest 20205 -10568
    3,R,U,X
    7,R,J,G
   40
-   
+
 #lvl_g04
    3,R,J
    5,R
@@ -770,7 +770,7 @@ console load MtEverest/0/MtEverest 20205 -10568
    1,R,J,G
   11,R
   40
-  
+
 #lvl_g06door
    1,R
    1,R,J

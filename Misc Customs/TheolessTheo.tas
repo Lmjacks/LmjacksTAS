@@ -105,7 +105,7 @@ console load Salad/TheolessTheo/doorlessTheo
   18,R
    1,R,J
    5,R,U,X
-  
+
 #e-06
   40
    6,R,U,X
@@ -140,7 +140,7 @@ console load Salad/TheolessTheo/doorlessTheo
   10,R,J
    4,J
   13,R,D,X
-   
+
 #e-09
   40
    1,R,D,X
@@ -196,5 +196,3 @@ console load Salad/TheolessTheo/doorlessTheo
    2,R,J
    5,R
   14,R,D,X
-
-
